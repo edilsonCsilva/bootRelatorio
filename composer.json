@@ -1,0 +1,20 @@
+{
+    "name": "operacional/relatorio",
+    "description": "descricao.",
+    "authors": [{
+        "name": "nome",
+        "email": "edilsonclaudinosilva@gmail.com"
+    }],
+    "require": {
+        "components/jquery": "^3.5",
+        "twbs/bootstrap": "4.0.0",
+        "spipu/html2pdf": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Stilldistribuidora\\": "src/"
+        }
+    }
+
+
+}

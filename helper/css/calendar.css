@@ -1,0 +1,50 @@
+.display-day {
+    height: 80px;
+    color: brown;
+    border: 1px solid 000;
+    font-size: 90px;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+.small-ico {
+    height: 25px;
+    text-align: center;
+    margin: auto;
+}
+
+.small-ico-25 {
+    height: 16px;
+}
+
+.small-ico-32 {
+    height: 32px;
+}
+
+.card-custom {
+    width: 16rem;
+    height: auto;
+    background-color: whitesmoke;
+    margin: 1%;
+}
+
+.card-custom:hover {
+    border: 2px solid red;
+    font-size: large;
+}
+
+.header-custom {
+    font-size: 17px;
+    padding: 0px;
+}
+
+.card-custom-active {
+    background-color: rgb(248, 220, 220);
+}
+
+th,
+td {
+    text-align: center;
+    vertical-align: middle;
+}

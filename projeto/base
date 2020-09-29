@@ -1,0 +1,8 @@
+CREATE PROCEDURE clss()
+BEGIN
+
+	DELETE  FROM boot.operations where delivery_id  > 0;
+	DELETE  FROM boot.operations_photos where  ObjId > 0;
+	DELETE  FROM boot.operations_poits where ObjId >0;
+
+END

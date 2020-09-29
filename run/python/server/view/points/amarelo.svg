@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2481"
+   height="2073"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="amarelo.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Map-Marker-Small</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="0.22768934"
+     inkscape:cx="1313.0549"
+     inkscape:cy="802.67022"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <title
+     id="title2">Map-Marker-Small</title>
+  <g
+     style="fill:#ffff00"
+     id="svg_1">
+    <path
+       inkscape:connector-curvature="0"
+       style="clip-rule:evenodd;fill:#ffff00;fill-rule:evenodd;stroke:#000000;stroke-width:37;stroke-miterlimit:10"
+       id="svg_2"
+       d="M 730.94,1839.629 C 692.17401,1649.328 623.82404,1490.964 541.03699,1344.1891 479.63001,1235.317 408.49301,1134.8261 342.673,1029.2511 320.70099,994.00702 301.73901,956.77405 280.62601,920.19702 c -42.21601,-73.13696 -76.444,-157.935 -74.269,-267.932 2.125,-107.47297 33.20799,-193.68399 78.02998,-264.172 73.71903,-115.93497 197.20102,-210.98898 362.88401,-235.96898 135.466,-20.424 262.47503,14.082 352.54303,66.748 73.60007,43.03799 130.59597,100.52701 173.91997,168.28 45.22,70.716 76.359,154.26001 78.971,263.23199 1.337,55.83002 -7.805,107.53199 -20.684,150.41797 -13.0339,43.40906 -33.996,79.69501 -52.646,118.45404 -36.406,75.659 -82.0489,144.98196 -127.855,214.34606 C 915.08301,1340.208 787.02399,1550.912 730.94,1839.629 Z"
+       stroke-miterlimit="10" />
+    <circle
+       style="clip-rule:evenodd;fill:#ffff00;fill-rule:evenodd"
+       id="svg_4"
+       r="183.33299"
+       cy="651.047"
+       cx="729.54602" />
+  </g>
+  <circle
+     style="clip-rule:evenodd;fill-rule:evenodd"
+     cx="733.45551"
+     cy="592.91309"
+     r="183.33299"
+     id="svg_4-3" />
+</svg>
